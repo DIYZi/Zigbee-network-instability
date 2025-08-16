@@ -6,7 +6,7 @@
 
 ---
 
-### Подробно о тайном в [Wiki](https://github.com/DIYZi/test/wiki)
+### Подробно о тайном в [Wiki](https://github.com/DIYZi/Zigbee-network-instability/wiki)
 
 ---
 
